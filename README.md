@@ -1,1 +1,1 @@
-# apriori
+# The Apriori algorithm
